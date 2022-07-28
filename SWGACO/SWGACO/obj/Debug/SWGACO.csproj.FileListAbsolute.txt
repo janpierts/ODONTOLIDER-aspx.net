@@ -1,0 +1,211 @@
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\SWGACO.dll.config
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\SWGACO.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\SWGACO.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\csc.exe
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\csc.exe.config
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\csc.rsp
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\csi.exe
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\csi.exe.config
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\csi.rsp
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.AppContext.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Collections.Immutable.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Console.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Globalization.Calendars.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.IO.Compression.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.IO.FileSystem.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Net.Http.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Net.Sockets.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Reflection.Metadata.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.ValueTuple.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Xml.XPath.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\vbc.exe
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\vbc.exe.config
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\vbc.rsp
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\VBCSCompiler.exe
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\roslyn\VBCSCompiler.exe.config
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.AssemblyReference.cache
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.CoreCompileInputs.cache
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.CopyComplete
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\obj\Debug\SWGACO.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\obj\Debug\SWGACO.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\Dominio.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\Negocio.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\GestionDatos.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\Dominio.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\Negocio.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\SWGACO\bin\GestionDatos.pdb
+D:\SWGACO\SWGACO\SWGACO\bin\SWGACO.dll.config
+D:\SWGACO\SWGACO\SWGACO\bin\SWGACO.dll
+D:\SWGACO\SWGACO\SWGACO\bin\SWGACO.pdb
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\csc.exe
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\csc.exe.config
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\csc.rsp
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\csi.exe
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\csi.exe.config
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\csi.rsp
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.AppContext.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Collections.Immutable.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Console.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Globalization.Calendars.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.Compression.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.FileSystem.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Net.Http.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Net.Sockets.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Reflection.Metadata.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.ValueTuple.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.XPath.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\vbc.exe
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\vbc.exe.config
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\vbc.rsp
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\VBCSCompiler.exe
+D:\SWGACO\SWGACO\SWGACO\bin\roslyn\VBCSCompiler.exe.config
+D:\SWGACO\SWGACO\SWGACO\bin\Dominio.dll
+D:\SWGACO\SWGACO\SWGACO\bin\GestionDatos.dll
+D:\SWGACO\SWGACO\SWGACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SWGACO\SWGACO\SWGACO\bin\Negocio.dll
+D:\SWGACO\SWGACO\SWGACO\bin\Dominio.pdb
+D:\SWGACO\SWGACO\SWGACO\bin\GestionDatos.pdb
+D:\SWGACO\SWGACO\SWGACO\bin\Negocio.pdb
+D:\SWGACO\SWGACO\SWGACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.AssemblyReference.cache
+D:\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.CoreCompileInputs.cache
+D:\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.CopyComplete
+D:\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.dll
+D:\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\SWGACO.dll.config
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\SWGACO.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\SWGACO.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\csc.exe
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\csc.exe.config
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\csc.rsp
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\csi.exe
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\csi.exe.config
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\csi.rsp
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.AppContext.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Console.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.Compression.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Net.Http.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.ValueTuple.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\vbc.exe
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\vbc.exe.config
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\vbc.rsp
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\VBCSCompiler.exe
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Dominio.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\GestionDatos.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Negocio.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Dominio.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\GestionDatos.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Negocio.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.AssemblyReference.cache
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.CoreCompileInputs.cache
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.csproj.CopyComplete
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\obj\Debug\SWGACO.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Rotativa\wkhtmltoimage.exe
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Rotativa\wkhtmltopdf.exe
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\Rotativa.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.Helpers.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.Mvc.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.Razor.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.WebPages.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.WebPages.Razor.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.Helpers.xml
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.Mvc.xml
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.Razor.xml
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.WebPages.xml
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\SWGACO\bin\System.Web.WebPages.Razor.xml

@@ -1,0 +1,17 @@
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\Dominio\bin\Debug\Dominio.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\Dominio\bin\Debug\Dominio.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\Dominio\obj\Debug\Dominio.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\Dominio\obj\Debug\Dominio.pdb
+D:\SWGACO\SWGACO\Dominio\bin\Debug\Dominio.dll
+D:\SWGACO\SWGACO\Dominio\bin\Debug\Dominio.pdb
+D:\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+D:\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.dll
+D:\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\Dominio\bin\Debug\Dominio.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\Dominio\bin\Debug\Dominio.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\Dominio\obj\Debug\Dominio.pdb

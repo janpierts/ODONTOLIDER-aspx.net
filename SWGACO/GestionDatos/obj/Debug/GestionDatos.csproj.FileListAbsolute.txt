@@ -1,0 +1,27 @@
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\bin\Debug\GestionDatos.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\bin\Debug\GestionDatos.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\bin\Debug\Dominio.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\bin\Debug\Dominio.pdb
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.AssemblyReference.cache
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.CoreCompileInputs.cache
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.CopyComplete
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\obj\Debug\GestionDatos.dll
+D:\Descargas PC\CHAMBA_RICHI\SWGACO\GestionDatos\obj\Debug\GestionDatos.pdb
+D:\SWGACO\SWGACO\GestionDatos\bin\Debug\GestionDatos.dll
+D:\SWGACO\SWGACO\GestionDatos\bin\Debug\GestionDatos.pdb
+D:\SWGACO\SWGACO\GestionDatos\bin\Debug\Dominio.dll
+D:\SWGACO\SWGACO\GestionDatos\bin\Debug\Dominio.pdb
+D:\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.AssemblyReference.cache
+D:\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.CoreCompileInputs.cache
+D:\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.CopyComplete
+D:\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.dll
+D:\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\bin\Debug\GestionDatos.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\bin\Debug\GestionDatos.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\bin\Debug\Dominio.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\bin\Debug\Dominio.pdb
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.AssemblyReference.cache
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.CoreCompileInputs.cache
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.csproj.CopyComplete
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.dll
+C:\Users\jampi\OneDrive\Documentos\TP2022\to-debug\SWGACO\SWGACO\SWGACO\GestionDatos\obj\Debug\GestionDatos.pdb
